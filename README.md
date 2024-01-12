@@ -30,6 +30,7 @@ npx playwright test --ui
 ```
 npx playwright show-report
 ```
+![Results](images/Playwright_results.png)
 ## Help
 
 While running tests with UI option, navigate to errors tab to view the error and network to view request and response
