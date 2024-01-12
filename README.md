@@ -39,4 +39,5 @@ While running tests with UI option, navigate to errors tab to view the error and
 Inspiration
 * [Playwright API Testing demo](https://www.youtube.com/watch?v=EEjyLfp6DoQ)
 * [Playwright docs](https://playwright.dev/docs)
+* [reqres] (https://reqres.in/)
 
